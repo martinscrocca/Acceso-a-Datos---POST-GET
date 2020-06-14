@@ -1,0 +1,12 @@
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Entindades\bin\Debug\Entindades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Entindades\bin\Debug\Entindades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Entindades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Entindades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Entindades\obj\Debug\Entindades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Entindades\obj\Debug\Entindades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Entindades\bin\Debug\Entindades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Entindades\bin\Debug\Entindades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Entindades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Entindades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Entindades\obj\Debug\Entindades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Entindades\obj\Debug\Entindades.pdb

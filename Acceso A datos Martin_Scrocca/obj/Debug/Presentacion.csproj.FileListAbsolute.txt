@@ -1,0 +1,44 @@
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Acceso A datos Martin_Scrocca.exe.config
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Acceso A datos Martin_Scrocca.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Acceso A datos Martin_Scrocca.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.Form1.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.Properties.Resources.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso A datos Martin_Scrocca.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso A datos Martin_Scrocca.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Entindades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Entindades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.ListaCompleta.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Datos.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Newtonsoft.Json.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Datos.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\bin\Debug\Newtonsoft.Json.xml
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.ListaMayores25.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.FormListaConApellBuscado.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Acceso A datos Martin_Scrocca.exe.config
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Acceso A datos Martin_Scrocca.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Acceso A datos Martin_Scrocca.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Entindades.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Negocio.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Datos.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Newtonsoft.Json.dll
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Entindades.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Negocio.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Datos.pdb
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\bin\Debug\Newtonsoft.Json.xml
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.Form1.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.FormListaConApellBuscado.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.ListaCompleta.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.ListaMayores25.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso_A_datos_Martin_Scrocca.Properties.Resources.resources
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso A datos Martin_Scrocca.exe
+D:\Google DRIVE SCROCCA educacion\CAI-2    2020\Acceso a datos webApi\Acceso A datos Martin_Scrocca - GET -POST\Acceso A datos Martin_Scrocca\obj\Debug\Acceso A datos Martin_Scrocca.pdb
